@@ -9,7 +9,7 @@
 - 🌱 Continuously learning and exploring the world of technology 
 - 💼 Open to collaborating on **software development** projects and **innovative tech solutions**
 - 🚀 Aspiring to become an **Informatics Expert**
-- 📫 You can reach me via email at: [YourEmail@example.com]
+- 📫 You can reach me via email at: [ghanifauzan5@gmail.com]
 
 ## 🔧 Technologies & Tools
 <p align="center">
