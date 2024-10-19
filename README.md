@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Ghani (@ghaniiiiii) 
+# 👋 Hello, I’m Ghani (@ghaniiiiii)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Informatics+Engineering+Student;Tech+Enthusiast;Always+Learning+New+Things&center=true&width=440&height=45&color=blue" alt="Typing SVG">
@@ -24,10 +24,15 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 </p>
 
 ## ✨ Goals
-- 🛠 Enhance my skills in **full-stack development**
+- 🛠 Enhance my skills in **backend development** and **machine learning engineering**
 - 📂 Contribute to **open-source** projects
 - 💡 Build and share innovative projects on GitHub
 
