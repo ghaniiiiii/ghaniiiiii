@@ -36,20 +36,5 @@
 - 📂 Contribute to **open-source** projects
 - 💡 Build and share innovative projects on GitHub
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghaniiiiii&show_icons=true&theme=radical" alt="Ghani's GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghaniiiiii&theme=radical" alt="Ghani's GitHub Streaks">
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ghaniiiiii&theme=react-dark" alt="Ghani's Contribution Graph">
-</p>
-
----
 
 Feel free to connect and collaborate. Let’s build something great together!
